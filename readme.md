@@ -29,23 +29,14 @@ de baixa renda.
 
 ---
 
-## Layout
-
-Layout da Plataforma
-
 ### Mobile
 
 <p align="center">
-<h1 align="center">
     <img src="./img/mob1.png" width="200px">
-</h1>
-
-<h1 align="center">
     <img src="./img/mob2.png" width="200px">
-</h1>
 </p>
 
-## Web 
+### Web 
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
   <img src="./img/src01.png" width="400px">
