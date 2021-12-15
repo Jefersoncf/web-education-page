@@ -43,7 +43,7 @@ de baixa renda.
   <img src="./img/src02.png" width="400px">
   <img src="./img/src03.png" width="400px">
   <img src="./img/src04.png" width="400px">
-  <img src="./img/src06.png" width="400px">
+  <img src="./img/src05.png" width="400px">
   <img src="./img/src06.png" width="400px">
 </p>
 
